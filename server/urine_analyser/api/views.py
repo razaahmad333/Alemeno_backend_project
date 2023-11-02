@@ -43,3 +43,14 @@ def extract_colors_from_strip(img):
         y_start += (box_size + spacing)
 
     return colors
+
+
+
+A B C
+
+W W R
+
+100 doors in row
+
+initially all doors are closed 
+
